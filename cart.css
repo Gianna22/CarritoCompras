@@ -1,0 +1,102 @@
+* {
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+}
+
+.body {
+  background-color: rgb(236, 232, 232);
+}
+
+.title {
+  font-size: 50px;
+  color: rgba(17, 15, 15, 0.903);
+  font-family: "Times New Roman", Times, serif;
+  text-align: center;
+  letter-spacing: 10px;
+}
+.nameProd {
+  font-size: 35px;
+  font-family: "Times New Roman", Times, serif;
+  margin-top: 20px;
+  text-align: center;
+  text-decoration: overline;
+}
+.totalCompra {
+  display: none;
+}
+.cantidad {
+  font-size: 25px;
+  font-family: "Times New Roman", Times, serif;
+  text-align: center;
+}
+
+.h2 {
+  font-size: 25px;
+  font-family: "Times New Roman", Times, serif;
+  text-align: center;
+  margin-top: 30px;
+}
+
+.btns {
+  display: flex;
+  justify-content: center;
+}
+
+.btnSumar {
+  background-color: rgb(218, 143, 152);
+  padding: 10px;
+  font-size: 20px;
+  color: black;
+  border-color: black;
+}
+
+.btnRestar {
+  background-color: rgb(218, 143, 152);
+  padding: 10px;
+  font-size: 20px;
+  color: black;
+  border-color: black;
+}
+
+.btnDelete {
+  background-color: rgb(218, 143, 152);
+  padding: 10px;
+  font-size: 20px;
+  color: black;
+  border-color: black;
+}
+
+.totalProd {
+  font-size: 40px;
+  text-align: center;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-style: unset;
+}
+#total {
+  font-size: 30px;
+  margin-top: 50px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+.items-footer{
+    font-size: 20px;
+    margin-top: 50px, auto;
+    font-family: 'Times New Roman', Times, serif;
+}
+.footer{
+    background-color: rgb(197, 202, 200);
+}
+
+.p-link{
+    color: black;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.link{
+    text-decoration: none;
+    font-size: 15px;
+    color: black;
+    background-color: rgb(219, 219, 186);
+}

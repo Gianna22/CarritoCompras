@@ -1,0 +1,88 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.body{
+    background-color: rgb(236, 232, 232);
+}
+.nav{
+background-color: rgb(210, 219, 220);
+}
+.link-carrito{
+    font-size: 20px;
+    color: rgb(205, 47, 73);
+    border: 10px;
+    margin-left: 35%;
+    margin-bottom: 20px;
+    text-decoration: none;
+    
+
+}
+
+.tittle{
+    font-size: 50px;
+    color: rgba(17, 15, 15, 0.903);
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    letter-spacing: 10px;
+}
+
+
+.contenedor{
+    background-color: rgba(246, 221, 239, 0.881);
+    display: flex;
+    flex-wrap: wrap;
+    
+;
+}
+
+.img{
+    width: 250px;
+    height: 250px;
+    margin: 5px;
+    object-fit: cover;
+}
+
+.h1{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.precio{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.btn{
+    font-size: 18px;
+    font-family:'Times New Roman', Times, serif;
+    background-color: rgb(211, 172, 172);
+    border: none;
+    padding: 10px;    
+}
+
+.btnBuy{
+    font-size: 20px;
+    display: flex;
+    align-items: flex-start;
+}
+
+.footer{
+    background-color: rgb(197, 202, 200);
+}
+
+.p-link{
+    color: black;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.link{
+    text-decoration: none;
+    font-size: 15px;
+    color: black;
+    background-color: rgb(219, 219, 186);
+}
